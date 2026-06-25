@@ -19,7 +19,7 @@ If you use parts of the code, you must provide proper credit linking back to the
 
 Build your own version — don’t just copy.
 
-— Moncy Yohannan
+— Anirudh Saxena
 
 ---
 
@@ -36,6 +36,26 @@ https://gsap.com/docs/v3/Installation/
 ## ⚙️ Tech Stack
 
 React • TypeScript • GSAP • Three.js • WebGL • HTML • CSS • JavaScript
+
+---
+
+## 🏃 Getting Started
+
+This project uses [Bun](https://bun.sh) as the package manager and runtime.
+
+```bash
+# Install dependencies
+bun install
+
+# Start the dev server
+bun run dev
+
+# Build for production
+bun run build
+
+# Preview the production build
+bun run preview
+```
 
 ---
 

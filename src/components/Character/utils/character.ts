@@ -2,6 +2,7 @@ import * as THREE from "three";
 import { DRACOLoader, GLTF, GLTFLoader } from "three-stdlib";
 import { setCharTimeline, setAllTimeline } from "../../utils/GsapScroll";
 import { decryptFile } from "./decrypt";
+import applyCharacterColors from "./setColors";
 
 const setCharacter = (
   renderer: THREE.WebGLRenderer,
@@ -34,6 +35,7 @@ const setCharacter = (
                 child.castShadow = true;
                 child.receiveShadow = true;
                 mesh.frustumCulled = true;
+                applyCharacterColors(mesh);
               }
             });
             resolve(gltf);

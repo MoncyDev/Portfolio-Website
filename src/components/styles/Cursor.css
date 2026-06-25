@@ -30,4 +30,10 @@
   .cursor-disable {
     --size: 0px;
   }
+  /* Hide the native OS cursor so only the custom dot is used to navigate */
+  html,
+  body,
+  * {
+    cursor: none !important;
+  }
 }

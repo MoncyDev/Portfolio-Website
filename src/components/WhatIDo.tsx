@@ -88,23 +88,23 @@ const WhatIDo = () => {
 
             <div className="what-content-in">
               <h3>DEVELOP</h3>
-              <h4>Description</h4>
+              <h4>Full-Stack & Edge</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae.
+                Engineering highly performant, edge-rendered SaaS and Web applications. Focusing on serverless architectures, SSR, real-time sync, and robust user experiences.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">JavaScript</div>
                 <div className="what-tags">TypeScript</div>
-                <div className="what-tags">Three.js</div>
                 <div className="what-tags">React</div>
-                <div className="what-tags">Css</div>
-                <div className="what-tags">Node.js</div>
                 <div className="what-tags">Next.js</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">PHP</div>
-                <div className="what-tags">MySql</div>
+                <div className="what-tags">Nuxt 4</div>
+                <div className="what-tags">Vue 3</div>
+                <div className="what-tags">Node.js</div>
+                <div className="what-tags">Cloudflare Workers</div>
+                <div className="what-tags">Supabase</div>
+                <div className="what-tags">Tailwind CSS</div>
+                <div className="what-tags">Pinia</div>
+                <div className="what-tags">REST APIs</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -128,22 +128,25 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>DESIGN</h3>
-              <h4>Description</h4>
+              <h3>INTELLIGENCE</h3>
+              <h4>AI/ML & Databases</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae
+                Designing secure, relational database schemas with fine-grained access control (RLS), and implementing custom CNN models for computer vision and intelligent data processing.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Blender</div>
-                <div className="what-tags">Zbrush</div>
-                <div className="what-tags">UI Design</div>
-                <div className="what-tags">Motion</div>
-                <div className="what-tags">Rigging</div>
-                <div className="what-tags">3D Animation</div>
-                <div className="what-tags">Character Design</div>
-                <div className="what-tags">Modelling</div>
+                <div className="what-tags">Python</div>
+                <div className="what-tags">SQL</div>
+                <div className="what-tags">PostgreSQL</div>
+                <div className="what-tags">Supabase</div>
+                <div className="what-tags">Firebase</div>
+                <div className="what-tags">TensorFlow</div>
+                <div className="what-tags">Keras</div>
+                <div className="what-tags">CNN</div>
+                <div className="what-tags">Computer Vision</div>
+                <div className="what-tags">Flutter</div>
+                <div className="what-tags">IoT</div>
+                <div className="what-tags">Git</div>
               </div>
               <div className="what-arrow"></div>
             </div>
