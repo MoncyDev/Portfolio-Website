@@ -6,9 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          Results-driven Software Engineer specializing in backend architecture (Node.js, Express) and Agentic AI systems (CrewAI, LangGraph). Proven track record of architecting scalable web applications, leading technical teams, and deploying LLM-powered workflows. Passionate about leveraging robust data analytics and modern development stacks to deliver impactful, user-centric solutions.
         </p>
       </div>
     </div>
